@@ -1,0 +1,9 @@
+{
+    "short_name": "WordPopper",
+    "name": "Word Popper",
+    "start_url": "/index.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "theme_color": "#3367D6",
+    "orientation": "landscape"
+  }
